@@ -8,4 +8,5 @@
 .my-Container{
     max-width: 1400px;
     margin: auto auto;
+    padding: 0 5%;
 }
