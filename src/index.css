@@ -1,1 +1,11 @@
 @import "tailwindcss";
+*{
+    font-family: samim;
+}
+:root{
+    --lowBlack : #65676b ;
+}
+.my-Container{
+    max-width: 1400px;
+    margin: auto auto;
+}

@@ -7,13 +7,15 @@ import Footer from "./Components/Footer";
 export default function App() {
   return (
     <>
-      <Navbar />
+      
       <BrowserRouter>
+      <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
-      <Footer />
+     
     </>
   );
 }
