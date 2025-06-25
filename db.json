@@ -1,3 +1,678 @@
 {
-  
+  "myket": {
+    "features": [
+      {
+        "header": "تماشای رایگان فیلم و سریال",
+        "Information": "بدون هیچ محدودیتی از تماشای فیلم‌ها و سریال‌های محبوب و پرطرفدار خود لذت ببرید."
+      },
+      {
+        "header": "فیلم‌ها و سریال‌ها با دوبله فارسی",
+        "Information": "بهترین فیلم‌ها و سریال‌های روز دنیا را با کیفیت بالا و دوبله فارسی به صورت آنلاین ببینید."
+      },
+      {
+        "header": "تماشای رایگان فیلم و سریال",
+        "Information": "بدون هیچ محدودیتی از تماشای فیلم‌ها و سریال‌های محبوب و پرطرفدار خود لذت ببرید."
+      },
+      {
+        "header": "فیلم‌ها و سریال‌ها با دوبله فارسی",
+        "Information": "بهترین فیلم‌ها و سریال‌های روز دنیا را با کیفیت بالا و دوبله فارسی به صورت آنلاین ببینید."
+      }
+    ],
+    "categories": [
+      {
+        "headerAlt": "فیلم و عکس",
+        "imgageAlt": ""
+      },
+      {
+        "headerAlt": "شبکه های اجتماعی"
+      },
+      {
+        "headerAlt": "بازی تفننی"
+      },
+      {
+        "headerAlt": "بازی اکشن"
+      },
+      {
+        "headerAlt": "برنامه ورزشی"
+      },
+      {
+        "headerAlt": "ابزار های کاربردی"
+      }
+    ],
+    "quickaccess": [
+      {
+        "title": "فرصت های شغلی",
+        "color": "pink"
+      },
+      {
+        "title": "تبلیغات",
+        "color": "blue"
+      },
+      {
+        "title": "مجله مایکت",
+        "color": "orange"
+      }
+    ],
+    "category": {
+      "appsGroup": [
+        {
+          "title": "سبک زندگی",
+          "bg": "gray",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Apps/ap.webp",
+            "/src/assets/Media/Pages/Apps/filimo.webp",
+            "/src/assets/Media/Pages/Apps/hamyar.webp",
+            "/src/assets/Media/Pages/Apps/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "red",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Apps/ap.webp",
+            "/src/assets/Media/Pages/Apps/filimo.webp",
+            "/src/assets/Media/Pages/Apps/hamyar.webp",
+            "/src/assets/Media/Pages/Apps/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "yellow",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Apps/ap.webp",
+            "/src/assets/Media/Pages/Apps/filimo.webp",
+            "/src/assets/Media/Pages/Apps/hamyar.webp",
+            "/src/assets/Media/Pages/Apps/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "blue",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Apps/ap.webp",
+            "/src/assets/Media/Pages/Apps/filimo.webp",
+            "/src/assets/Media/Pages/Apps/hamyar.webp",
+            "/src/assets/Media/Pages/Apps/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "pink",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Apps/ap.webp",
+            "/src/assets/Media/Pages/Apps/filimo.webp",
+            "/src/assets/Media/Pages/Apps/hamyar.webp",
+            "/src/assets/Media/Pages/Apps/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "green",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Apps/ap.webp",
+            "/src/assets/Media/Pages/Apps/filimo.webp",
+            "/src/assets/Media/Pages/Apps/hamyar.webp",
+            "/src/assets/Media/Pages/Apps/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "orange",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Apps/ap.webp",
+            "/src/assets/Media/Pages/Apps/filimo.webp",
+            "/src/assets/Media/Pages/Apps/hamyar.webp",
+            "/src/assets/Media/Pages/Apps/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "red",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Apps/ap.webp",
+            "/src/assets/Media/Pages/Apps/filimo.webp",
+            "/src/assets/Media/Pages/Apps/hamyar.webp",
+            "/src/assets/Media/Pages/Apps/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "green",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Apps/ap.webp",
+            "/src/assets/Media/Pages/Apps/filimo.webp",
+            "/src/assets/Media/Pages/Apps/hamyar.webp",
+            "/src/assets/Media/Pages/Apps/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "blue",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Apps/ap.webp",
+            "/src/assets/Media/Pages/Apps/filimo.webp",
+            "/src/assets/Media/Pages/Apps/hamyar.webp",
+            "/src/assets/Media/Pages/Apps/namava.webp"
+          ]
+        }
+      ],
+      "appsrow": [
+        {
+          "header": "بهترین برنامه‌ های کاربردی",
+          "app": [
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Apps/ap.webp",
+              "id": 101,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Apps/filimo.webp",
+              "id": 102,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Apps/namava.webp",
+              "id": 103,
+              "note": "تماشای دلچسب فیلم و سریال"
+            },
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Apps/ap.webp",
+              "id": 101,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Apps/filimo.webp",
+              "id": 102,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Apps/namava.webp",
+              "id": 103,
+              "note": "تماشای دلچسب فیلم و سریال"
+            },
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Apps/ap.webp",
+              "id": 101,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Apps/filimo.webp",
+              "id": 102,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Apps/namava.webp",
+              "id": 103,
+              "note": "تماشای دلچسب فیلم و سریال"
+            }
+          ]
+        },
+        {
+          "header": "برنامه هایی برای گوشی های جدید",
+          "app": [
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Apps/manager.webp",
+              "id": 104,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Apps/neshan.webp",
+              "id": 105,
+              "note": "ترافیک را دور بزن"
+            },
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Apps/manager.webp",
+              "id": 104,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Apps/neshan.webp",
+              "id": 105,
+              "note": "ترافیک را دور بزن"
+            },
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Apps/manager.webp",
+              "id": 104,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Apps/neshan.webp",
+              "id": 105,
+              "note": "ترافیک را دور بزن"
+            },
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Apps/manager.webp",
+              "id": 104,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Apps/neshan.webp",
+              "id": 105,
+              "note": "ترافیک را دور بزن"
+            },
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Apps/manager.webp",
+              "id": 104,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Apps/neshan.webp",
+              "id": 105,
+              "note": "ترافیک را دور بزن"
+            },
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Apps/manager.webp",
+              "id": 104,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Apps/neshan.webp",
+              "id": 105,
+              "note": "ترافیک را دور بزن"
+            }
+          ]
+        },
+        {
+          "header": "بهترین برنامه‌ های کاربردی",
+          "app": [
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Apps/ap.webp",
+              "id": 101,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Apps/filimo.webp",
+              "id": 102,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Apps/namava.webp",
+              "id": 103,
+              "note": "تماشای دلچسب فیلم و سریال"
+            },
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Apps/ap.webp",
+              "id": 101,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Apps/filimo.webp",
+              "id": 102,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Apps/namava.webp",
+              "id": 103,
+              "note": "تماشای دلچسب فیلم و سریال"
+            },
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Apps/ap.webp",
+              "id": 101,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Apps/filimo.webp",
+              "id": 102,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "img": "/src/assets/Media/Pages/Apps/ap.webp",
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Apps/namava.webp",
+              "id": 103,
+              "note": "تماشای دلچسب فیلم و سریال"
+            }
+          ]
+        }
+      ],
+      "gamesGroup": [
+        {
+          "title": "سبک زندگی",
+          "bg": "gray",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Games/ap.webp",
+            "/src/assets/Media/Pages/Games/filimo.webp",
+            "/src/assets/Media/Pages/Games/manager.webp",
+            "/src/assets/Media/Pages/Games/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "red",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Games/ap.webp",
+            "/src/assets/Media/Pages/Games/filimo.webp",
+            "/src/assets/Media/Pages/Games/manager.webp",
+            "/src/assets/Media/Pages/Games/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "yellow",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Games/ap.webp",
+            "/src/assets/Media/Pages/Games/filimo.webp",
+            "/src/assets/Media/Pages/Games/manager.webp",
+            "/src/assets/Media/Pages/Games/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "blue",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Games/ap.webp",
+            "/src/assets/Media/Pages/Games/filimo.webp",
+            "/src/assets/Media/Pages/Games/manager.webp",
+            "/src/assets/Media/Pages/Games/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "pink",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Games/ap.webp",
+            "/src/assets/Media/Pages/Games/filimo.webp",
+            "/src/assets/Media/Pages/Games/manager.webp",
+            "/src/assets/Media/Pages/Games/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "green",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Games/ap.webp",
+            "/src/assets/Media/Pages/Games/filimo.webp",
+            "/src/assets/Media/Pages/Games/manager.webp",
+            "/src/assets/Media/Pages/Games/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "orange",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Games/ap.webp",
+            "/src/assets/Media/Pages/Games/filimo.webp",
+            "/src/assets/Media/Pages/Games/manager.webp",
+            "/src/assets/Media/Pages/Games/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "red",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Games/ap.webp",
+            "/src/assets/Media/Pages/Games/filimo.webp",
+            "/src/assets/Media/Pages/Games/manager.webp",
+            "/src/assets/Media/Pages/Games/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "green",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Games/ap.webp",
+            "/src/assets/Media/Pages/Games/filimo.webp",
+            "/src/assets/Media/Pages/Games/manager.webp",
+            "/src/assets/Media/Pages/Games/namava.webp"
+          ]
+        },
+        {
+          "title": "سبک زندگی",
+          "bg": "blue",
+          "info": "تلفن‌های هوشمند از پرکاربردترین ابزارها در زندگی روزمره هستند و وجود نرم‌افزارهای بسیار متنوعی که برای حوزه‌های مختلف توسعه داده شده‌اند، به ما کمک می‌کنند تا در بسیاری از امور، کارها را سریع‌تر و ساده‌تر از همیشه انجام دهیم. برنامه های سیر و سفر، یکی از همین موارد هستند و از رزرو هتل تا خرید آنلاین بلیط هواپیما و قطار، زندگی را آسان‌تر از همیشه می‌کنند. کاربران همچنین می‌توانند با استفاده از برنامه‌های مختلف،",
+          "img": [
+            "/src/assets/Media/Pages/Games/ap.webp",
+            "/src/assets/Media/Pages/Games/filimo.webp",
+            "/src/assets/Media/Pages/Games/manager.webp",
+            "/src/assets/Media/Pages/Games/namava.webp"
+          ]
+        }
+      ],
+      "gamesrow": [
+        {
+          "header": "بهترین برنامه‌ های کاربردی",
+          "app": [
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Games/ap.webp",
+              "id": 201,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Games/filimo.webp",
+              "id": 202,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Games/namava.webp",
+              "id": 203,
+              "note": "تماشای دلچسب فیلم و سریال"
+            },
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Games/ap.webp",
+              "id": 201,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Games/filimo.webp",
+              "id": 202,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Games/namava.webp",
+              "id": 203,
+              "note": "تماشای دلچسب فیلم و سریال"
+            },
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Games/ap.webp",
+              "id": 201,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Games/filimo.webp",
+              "id": 202,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Games/namava.webp",
+              "id": 203,
+              "note": "تماشای دلچسب فیلم و سریال"
+            }
+          ]
+        },
+        {
+          "header": "برنامه هایی برای گوشی های جدید",
+          "app": [
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Games/manager.webp",
+              "id": 204,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Games/neshan.webp",
+              "id": 205,
+              "note": "ترافیک را دور بزن"
+            },
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Games/manager.webp",
+              "id": 204,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Games/neshan.webp",
+              "id": 205,
+              "note": "ترافیک را دور بزن"
+            },
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Games/manager.webp",
+              "id": 204,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Games/neshan.webp",
+              "id": 205,
+              "note": "ترافیک را دور بزن"
+            },
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Games/manager.webp",
+              "id": 204,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Games/neshan.webp",
+              "id": 205,
+              "note": "ترافیک را دور بزن"
+            },
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Games/manager.webp",
+              "id": 204,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Games/neshan.webp",
+              "id": 205,
+              "note": "ترافیک را دور بزن"
+            },
+            {
+              "name": "دانلود منیجر پیشرفته",
+              "img": "/src/assets/Media/Pages/Games/manager.webp",
+              "id": 204,
+              "note": "بهترین برنامه برای مدیریت دانلودها"
+            },
+            {
+              "name": "نشان",
+              "img": "/src/assets/Media/Pages/Games/neshan.webp",
+              "id": 205,
+              "note": "ترافیک را دور بزن"
+            }
+          ]
+        },
+        {
+          "header": "بهترین برنامه‌ های کاربردی",
+          "app": [
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Games/ap.webp",
+              "id": 201,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Games/filimo.webp",
+              "id": 202,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Games/namava.webp",
+              "id": 203,
+              "note": "تماشای دلچسب فیلم و سریال"
+            },
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Games/ap.webp",
+              "id": 201,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Games/filimo.webp",
+              "id": 202,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Games/namava.webp",
+              "id": 203,
+              "note": "تماشای دلچسب فیلم و سریال"
+            },
+            {
+              "name": "برنامه آپ",
+              "img": "/src/assets/Media/Pages/Games/ap.webp",
+              "id": 201,
+              "note": "اپلیکیشن آسان پرداخت برای اندروید"
+            },
+            {
+              "name": "فیلیمو",
+              "img": "/src/assets/Media/Pages/Games/filimo.webp",
+              "id": 202,
+              "note": "دنیایی از فیلم و سریال روی گوشی شما"
+            },
+            {
+              "name": "نماوا",
+              "img": "/src/assets/Media/Pages/Games/namava.webp",
+              "id": 203,
+              "note": "تماشای دلچسب فیلم و سریال"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

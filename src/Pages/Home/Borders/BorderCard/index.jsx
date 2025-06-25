@@ -1,7 +1,6 @@
 import React from 'react'
 
 export default function BorderCard({count , id , image}) {
-    console.log(id)
     if(id <= 5)
         return (
             <div className={`h-[120px] flex items-center rounded-3xl justify-between px-4 py-3 ${ id % 2 == 0 ? 'border-1' : 'border-0'} border-gray-300`}>

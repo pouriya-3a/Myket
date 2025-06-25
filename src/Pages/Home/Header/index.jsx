@@ -20,12 +20,12 @@ import HeaderContent from './HeaderContent';
 
 export default function Header() {
   return (
-    <div className='my-Container flex !py-[48px] px-[16px]'>
+    <div className='my-Container flex md:flex-row flex-col-reverse gap-8  !py-[48px] px-[16px]'>
       <HeaderContent />
-      <Swiper className='w-1/2'
+      <Swiper className='w-[75%] md:w-1/2'
       modules={[EffectFade , Navigation , Pagination ,Autoplay]}
       effect='fade'
-      spaceBetween={10}
+      spaceBetween={0}
       slidesPerView={1}
       loop={true}
       autoplay={{
@@ -33,10 +33,10 @@ export default function Header() {
         disableOnInteraction : false
       }}
       >
-        <SwiperSlide className='bg-white'><img src={appsImgHeader} alt="" /></SwiperSlide>
-        <SwiperSlide className='bg-white'><img src={gamesImgHeader} alt="" /></SwiperSlide>
-        <SwiperSlide className='bg-white'><img src={safetyImgHeader} alt="" /></SwiperSlide>
-        <SwiperSlide className='bg-white'><img src={supportImgHeader} alt="" /></SwiperSlide>
+        <SwiperSlide className='bg-white !h-[100%] w-[100%]'><img className='!h-[100%] w-[100%]' src={appsImgHeader} alt="" /></SwiperSlide>
+        <SwiperSlide className='bg-white !h-[100%] w-[100%]'><img className='!h-[100%] w-[100%]' src={gamesImgHeader} alt="" /></SwiperSlide>
+        <SwiperSlide className='bg-white !h-[100%] w-[100%]'><img className='!h-[100%] w-[100%]' src={safetyImgHeader} alt="" /></SwiperSlide>
+        <SwiperSlide className='bg-white !h-[100%] w-[100%]'><img className='!h-[100%] w-[100%]' src={supportImgHeader} alt="" /></SwiperSlide>
       </Swiper>
     </div>
   )

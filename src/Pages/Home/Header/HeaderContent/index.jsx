@@ -2,7 +2,7 @@ import React from "react";
 
 export default function HeaderContent() {
   return (
-    <div className="header-Content justify-center flex flex-col w-1/2 items-center gap-[12px]">
+    <div className="header-Content justify-center flex flex-col w-[100%] md:w-1/2 items-center gap-[12px]">
       <h2 className="text-4xl font-semibold text-[var(--lowBlack)]">مایکت؛ دنیای بازی و سرگرمی</h2>
       <p className="text-gray-600 my-2 text-lg">
         دانلود بازی‌ و برنامه‌ اندرویدی؛ تماشای فیلم، سریال و انیمیشن

@@ -19,6 +19,6 @@ export default function Borders() {
     })();
   }, []);
   const showItems = posts?.map((e , index) => <BorderCard key={index} id={index} count={e.rating.count} image={image}/>)
-  if(posts?.length <= 0) return <Loading />
+  if(!posts) return <Loading />
   return <div className=" my-Container grid grid-cols-1 md:grid-cols-3 gap-4 ">{showItems}</div>
 }

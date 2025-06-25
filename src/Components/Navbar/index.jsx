@@ -12,7 +12,7 @@ export default function Navbar() {
             <Link to="/">بازی</Link>
           </li>
           <li className=" hover:bg-gray-100 rounded-1xl py-2 px-3 font-bold text-[var(--lowBlack)]">
-            <Link to="/">برنامه</Link>
+            <Link to="/apps">برنامه</Link>
           </li>
           <li className=" hover:bg-gray-100 rounded-1xl py-2 px-3 font-bold text-[var(--lowBlack)]">
             <Link to="/">فیلم</Link>

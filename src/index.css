@@ -8,5 +8,39 @@
 .my-Container{
     max-width: 1400px;
     margin: auto auto;
-    padding: 0 5%;
+    padding: 0 0%;
+}
+
+@media screen and (max-width : 1350px) {
+    html{
+        font-size: 16px;
+    }
+    .my-Container{
+        padding: 0 2% !important;
+    }
+}
+@media screen and (max-width : 1150px) {
+    html{
+        font-size: 14px;
+    }
+    .my-Container{
+        padding: 0 3% !important;
+    }
+}
+
+@media screen and (max-width : 950px) {
+    html{
+        font-size: 12px;
+    }
+    .my-Container{
+        padding: 0 4% !important;
+    }
+}
+@media screen and (max-width : 650px) {
+    html{
+        font-size: 10px;
+    }
+    .my-Container{
+        padding: 0 5% !important;
+    }
 }

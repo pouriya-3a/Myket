@@ -1,14 +1,22 @@
+import React from "react";
 const Loading = () => {
-    return (
+  return (
+    <div className="flex items-center justify-center">
       <div className="flex flex-col items-center justify-center h-full space-y-4">
         <div className="flex space-x-2">
-          <div className="w-3 h-3 bg-[#0071f0] rounded-full animate-bounce" style={{ animationDelay: '-0.32s' }}></div>
-          <div className="w-3 h-3 bg-[#0071f0] rounded-full animate-bounce" style={{ animationDelay: '-0.16s' }}></div>
+          <div
+            className="w-3 h-3 bg-[#0071f0] rounded-full animate-bounce"
+            style={{ animationDelay: "-0.32s" }}
+          ></div>
+          <div
+            className="w-3 h-3 bg-[#0071f0] rounded-full animate-bounce"
+            style={{ animationDelay: "-0.16s" }}
+          ></div>
           <div className="w-3 h-3 bg-[#0071f0] rounded-full animate-bounce"></div>
         </div>
-        <p className="text-[#0071f0] font-medium">Loading...</p>
+        <p className="text-[#0071f0] font-medium">درحال بارگذاری ...</p>
       </div>
-    );
-  };
-  
-  export default Loading;
+    </div>
+  );
+};
+export default Loading;
