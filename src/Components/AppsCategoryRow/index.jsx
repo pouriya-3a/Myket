@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 export default function AppsCategoryRow({title = 'عنوانی مطرح نشد!' , posts}) {
   return (
     <div className='my-Container'>
-        <h1 className='flex justify-between text-black text-[18px]'>{title}<Link className='text-[1rem] text-blue-600'>مشاهده همه</Link></h1>
+        <h1 className='flex justify-between text-black text-[18px]'>{title}<Link to={`/apps-all/${title.replaceAll(' ','-')}`} className='text-[1rem] text-blue-600'>مشاهده همه</Link></h1>
         <Swiper className='my-[12px]'
         spaceBetween={20}
         slidesPerView={8}

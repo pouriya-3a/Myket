@@ -9,7 +9,7 @@ export default function Navbar() {
         <img className="h-[100%]" src={img} alt="" />
         <ul className="md:flex hidden justify-between w-[400px]">
           <li className=" hover:bg-gray-100 rounded-1xl py-2 px-3 font-bold text-[var(--lowBlack)]">
-            <Link to="/">بازی</Link>
+            <Link to="/games">بازی</Link>
           </li>
           <li className=" hover:bg-gray-100 rounded-1xl py-2 px-3 font-bold text-[var(--lowBlack)]">
             <Link to="/apps">برنامه</Link>
@@ -21,7 +21,7 @@ export default function Navbar() {
             <Link to="/">سریال</Link>
           </li>
           <li className=" hover:bg-gray-100 rounded-1xl py-2 px-3 font-bold text-[var(--lowBlack)]">
-            <Link to="/">توسعه دهندگان</Link>
+            <Link to="/login">توسعه دهندگان</Link>
           </li>
         </ul>
         <button className="w-[100px] flex items-center py-1.5 justify-center text-[var(--lowBlack)] border-1 border-gray-300 rounded-3xl hover:bg-gray-200 text-[14px]">جستجو</button>

@@ -8,6 +8,7 @@ import Apps from "./Pages/Apps";
 import NotFound from "./Pages/NotFound";
 import AppsDetails from "./Pages/AppsDetails";
 import Games from "./Pages/Games";
+import AppsAll from "./Pages/AppsAll";
 
 export default function App() {
   return (
@@ -19,6 +20,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/apps" element={<Apps />} />
           <Route path="/games" element={<Games />} />
+          <Route path="/apps-all/:name" element={<AppsAll />} />
           <Route path="/apps-details/:id" element={<AppsDetails />} />
           <Route path="/*" element={<NotFound />} />
         </Routes>
