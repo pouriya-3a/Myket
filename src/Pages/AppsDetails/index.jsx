@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import AsideDetails from "./AsideDetails";
+import MainDetails from "./MainDetails";
 
 export default function AppsDetails() {
   const { id: postId } = useParams();
@@ -23,8 +25,9 @@ export default function AppsDetails() {
   }, []);
 
   return (
-    <div>
-      <h1>apps details {postId}</h1>
+    <div className="my-Container flex flex-col lg:flex-row gap-5 !py-7">
+      <AsideDetails post={post} />
+      <MainDetails post={post} />
     </div>
   );
 }
