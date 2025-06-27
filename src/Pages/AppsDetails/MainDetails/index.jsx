@@ -29,7 +29,7 @@ export default function MainDetails({ post }) {
   }
   else{
     return (
-      <div className="w-[70%]">
+      <div className="w-[70%] flex items-center justify-center">
         <Loading />
       </div>
     );
